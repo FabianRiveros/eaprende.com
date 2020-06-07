@@ -1,8 +1,8 @@
 {
-  "name": "Start on Heroku: Python",
-  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "name": "Empezando con Python",
+  "description": "Python el inicio!",
   "image": "heroku/python",
-  "repository": "https://github.com/heroku/python-getting-started",
+  "repository": "https://github.com/FabianRiveros/eaprende.com/",
   "keywords": ["python", "django" ],
   "addons": [ "heroku-postgresql" ],
   "env": {
