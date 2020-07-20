@@ -9,7 +9,7 @@ def index(request):
     #return HttpResponse('Hello from Python!! 17072020')
     return render(request, "index.html")
 
-@app.route('/my-link/')
+
 def my_link():
      print 'I got clicked!'
 
