@@ -10,13 +10,7 @@ def index(request):
     return render(request, "index.html")
 
 
-def my_link():
-     print 'I got clicked!'
-
-     return 'Click.'
-
-
-        
+     
 
 def db(request):
 
