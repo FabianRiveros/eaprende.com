@@ -15,8 +15,7 @@ def my_link():
 
      return 'Click.'
 
-if __name__ == '__main__':
-     app.run(debug=True)
+
         
 
 def db(request):
